@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/��������/IdeaProjects/Moizver">
+        <classes>
+            <class name="Personalprofile"></class>
+            <class name="Makeanorder"></class>
+            <class name="Catalog"></class>
+        </classes>
+    </test>
+</suite>
